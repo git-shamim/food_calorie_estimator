@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches and logs
+*.log
+*.tmp
+.cache/
+*.ipynb_checkpoints
+
+# Virtual environment
+venv/
+env/
+.ml310_env/
+
+# OS or IDE-specific
+.DS_Store
+.vscode/
+.idea/
+
+# Python environment config
+.env
+
+# PyTorch or HuggingFace models (optional: uncomment if models are downloaded)
+# ~/.cache/huggingface/
+
+# Streamlit
+.streamlit/
+
+# Docker
+*.dockerfile
